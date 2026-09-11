@@ -1,0 +1,15 @@
+BossName,HP,Standard,Strike,Slash,Piercing,Magic,Fire,Lightning,Holy
+Margit_The_Fell,4000,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.4
+Rennala_Queen_Full_Moon,4500,0.0,0.0,0.0,0.0,0.8,0.2,0.2,0.2
+Rykard_Lord_Blasphemy,7000,0.1,0.1,0.1,0.1,0.2,1.0,0.2,0.2
+Radagon_Of_The_Golden_Order,6000,0.1,0.0,0.1,0.1,0.2,0.2,0.2,0.8
+Divine_Beast_Dancing_Lion,5000,0.3,0.2,0.3,0.0,0.4,0.0,0.4,0.4
+Messmer_The_Impaler,8000,0.2,0.0,0.2,0.2,0.2,0.4,0.2,0.0
+Godrick_The_Grafted,6000,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2
+Starscourge_Radahn,9500,0.1,0.1,0.1,0.0,0.2,0.1,0.1,0.2
+Mohg_Lord_of_Blood,14000,0.1,0.1,0.1,0.1,0.2,0.8,0.2,0.2
+Malenia_Blade_of_Miquella,18000,0.1,0.1,0.1,0.1,0.2,0.0,0.2,0.2
+Maliketh_The_Black_Blade,10000,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.8
+Godfrey_First_Elden_Lord,22000,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2
+Elden_Beast,22000,0.1,0.1,0.1,0.1,0.4,0.4,0.4,0.8
+Rellana_Twin_Moon_Knight,30000,0.1,0.1,0.1,0.1,0.4,0.4,0.2,0.4
