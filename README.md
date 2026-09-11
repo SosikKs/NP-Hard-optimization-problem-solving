@@ -4,3 +4,5 @@ A project centered around an NP-Hard resource-constrained weapon selection probl
  - using Simulated Annealing metaheuristic
 
 The problem in question is set as a optimisation of Boss Run in the game "Elden Ring", but with minimal adjustments could be used for solving any similar kind of problem.
+
+### In-depth explanation of the project can be found in the file [EldenRingCombatTimeOptimizationProblem.pdf](EldenRingCombatTimeOptimizationProblem.pdf)
